@@ -1,0 +1,3 @@
+# in here goes what you want the system to ignore when running the code.
+node_modules
+.env
